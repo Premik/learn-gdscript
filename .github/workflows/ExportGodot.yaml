@@ -116,4 +116,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Artifact
-          path: build/web/main/
+          path: build/web/loc/
